@@ -3,7 +3,7 @@
 #### I am a front-end developer specialising on Vue and React JS frameworks.
 #### At my free time I like to learn new stuff and improve my skills.
 #### My main passion is video games, so I try to dedicated some of my time on studying C++ and Unreal Engine.
-#### Check out my projects below to see my personal projects and acomplishments!
+#### Check out my repositories below to see my personal projects and acomplishments!
 
 <!--
 **Romandre/Romandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
