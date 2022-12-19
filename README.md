@@ -2,7 +2,7 @@
 
 I am a front-end developer specialising on Vue and React JS frameworks.<br>
 At my free time I like to learn new stuff and improve my skills.<br>
-My main passion is video games, so I try to dedicated some of my time on studying C++ and Unreal Engine.<br>
+My main passion is video games, so I try to dedicate some of my time on studying C++ and Unreal Engine.<br>
 Check out repositories below to see my personal projects and acomplishments!<br>
 
 ---
