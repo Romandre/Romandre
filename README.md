@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-I am a front-end developer specializing in building high-quality solutions with React, TypeScript, and Next.js.<br>
-At my free time I like to learn new stuff and improve my skills.<br><br>
-One of my passions is video games, so I try to dedicate some of my time on studying C++ and Unreal Engine 4/5.<br><br>
-Check out repositories below to see my personal projects and acomplishments!<br>
+I am a front-end developer specializing in building high-quality web apps and software using **React**, **TypeScript**, and **Next.js**.<br><br>
+:hammer_and_wrench: My full tech stack: JavaScript · TypeScript · Next.js · Node.js · REST/GraphQL · React Query · Context API · Legend-State · Zustand · Redux · Jest · Tailwind CSS · PandaCSS Web · CI/CD · Performance optimisation.<br><br> 
+One of my passions is video games, so if you love gaming too checkout this app of mine: **[GamesCollector](https://gamescollector.netlify.app/)** :joystick:<br><br>
+Look for other repositories below to see more cool stuff!<br>
+
 
 ---
 
-### Всем привет 👋
-Я фронтенд-разработчик, специализирующийся на создании высококачественных решений с использованием React, TypeScript и Next.js.<br>
-В свободное время люблю узнавать что-то новое и совершенствовать свои навыки.<br>
-Моей главной страстью являются видеоигры, поэтому я стараюсь посвящать часть своего времени изучению C++ и Unreal Engine 4/5.<br>
-Проверьте репозитории ниже, чтобы увидеть мои личные проекты и достижения!<br>
-<ins>Важно:</ins> Почти каждая репозитория располагает отдельным описанием на русском языке. Ищите ссылку _[Описание игры на русском]()_ в конце README.md.
+### Привет 👋
+Я фронтендер, специализирующийся на создании веб-приложений и программного обеспечения на React, TypeScript и Next.js.
+В свободное время люблю узнавать что-то новое и совершенствовать свои навыки.<br><br>
+Одна из моих страстей — видеоигры, так что если вы тоже любите игры, посмотрите мое приложение: [GamesCollector](https://gamescollector.netlify.app/)<br><br>
+Я также стараюсь уделять часть своего времени созданию проектов Unreal Engine 5.<br>
+Проверьте репозитории ниже, чтобы чтобы увидеть больше моих проектов.<br>
+> [!TIP]
+> Большинство репозиториев имеют краткое описание на русском языке в конце README.md.
 
 
 <!--
